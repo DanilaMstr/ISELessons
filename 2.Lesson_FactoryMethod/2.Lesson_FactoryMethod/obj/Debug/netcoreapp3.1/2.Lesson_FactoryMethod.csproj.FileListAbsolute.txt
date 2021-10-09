@@ -1,0 +1,14 @@
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.AssemblyInfo.cs
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\bin\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.exe
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\bin\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.deps.json
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\bin\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.runtimeconfig.json
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\bin\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.runtimeconfig.dev.json
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\bin\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.dll
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\bin\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.pdb
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.dll
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.pdb
+C:\Users\daponuka\source\repos\2.Lesson_FactoryMethod\2.Lesson_FactoryMethod\obj\Debug\netcoreapp3.1\2.Lesson_FactoryMethod.genruntimeconfig.cache
